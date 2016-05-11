@@ -1,5 +1,5 @@
 <?php
-include 'common.php';
+//include 'common.php';  //in extending.php file exists included.
 include 'header.php';
 include 'menu.php';
 ?>
